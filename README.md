@@ -32,8 +32,8 @@ An interactive dashboard was created to visualize and explore key metrics and in
  A detailed data table summarizing key retention and gameplay metrics by gate group.
 
  This dashboard facilitates quick, interactive understanding of retention trends and engagement drivers, supporting data-driven decision making for game feature optimization.
-
- ```<img width="1115" height="625" alt="image" src="https://github.com/user-attachments/assets/114b0142-6fec-4db8-87f2-3fcab2f4e2ed" />```
+ 
+![Dashboard Screenshot](image.png)
 
 --How to Run the Analysis
 1. Load Required Packages
