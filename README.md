@@ -67,6 +67,7 @@ plt.ylabel('Retention Rate')
 plt.show()
 ```
 Key Findings
+
 Player counts are balanced between gate_30 and gate_40 groups.
 
 Day 1 retention rates are nearly identical for both groups (~44.5%).
