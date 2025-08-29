@@ -16,6 +16,25 @@ The dataset contains data from 90,189 players randomly assigned to either gate_3
 
 5.retention_7: Player returned on Day 7 (True/False)
 
+--Dashboard Description
+An interactive dashboard was created to visualize and explore key metrics and insights derived from the dataset. The dashboard includes:
+
+ Filter panels for version (gate placement) and retention days to enable dynamic data exploration.
+
+ KPI cards showing total users, average game rounds, Day 1 and Day 7 retention rates.
+
+ Bar charts comparing retention rates by gate placement.
+
+ A player retention funnel visualizing drop-off between total installs, Day 1, and Day 7 players.
+
+ Retention analysis by number of game rounds played to identify engagement patterns.
+
+ A detailed data table summarizing key retention and gameplay metrics by gate group.
+
+ This dashboard facilitates quick, interactive understanding of retention trends and engagement drivers, supporting data-driven decision making for game feature optimization.
+
+ ```<img width="1115" height="625" alt="image" src="https://github.com/user-attachments/assets/114b0142-6fec-4db8-87f2-3fcab2f4e2ed" />```
+
 --How to Run the Analysis
 1. Load Required Packages
 ```python
